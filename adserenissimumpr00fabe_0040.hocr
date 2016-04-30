@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./adserenissimumpr00fabe_0040.png"; bbox 0 0 1958 2605; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 775 789 1301 1471">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 775 789 1301 1471">
+     <span class='ocr_line' id='line_1_1' title="bbox 775 789 1301 1471; baseline 0 1134"><span class='ocrx_word' id='word_1_1' title='bbox 775 789 1301 1471; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 709 1591 1340 1638">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 709 1591 1340 1638">
+     <span class='ocr_line' id='line_1_2' title="bbox 709 1591 1340 1638; baseline 0.005 -13"><span class='ocrx_word' id='word_1_2' title='bbox 709 1591 911 1638; x_wconf 82' lang='lat' dir='ltr'>Imprimerie</span> <span class='ocrx_word' id='word_1_3' title='bbox 936 1592 1238 1628; x_wconf 78' lang='lat' dir='ltr'>Julcs-Guillaume</span> <span class='ocrx_word' id='word_1_4' title='bbox 1264 1594 1340 1628; x_wconf 80' lang='lat' dir='ltr'><strong>Fick</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 953 1672 1094 1691">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 953 1672 1094 1691">
+     <span class='ocr_line' id='line_1_3' title="bbox 953 1672 1094 1691; baseline 0.007 -1"><span class='ocrx_word' id='word_1_5' title='bbox 953 1672 1094 1691; x_wconf 75' lang='lat' dir='ltr'>GENEVE</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
